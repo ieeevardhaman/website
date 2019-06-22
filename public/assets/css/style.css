@@ -1,0 +1,73 @@
+#mainNav{
+    background-color: #FFF;
+}
+
+#mainNav .navbar-brand img{
+    height: 50px;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: #0C1C8C !important;
+}
+
+header.masthead {
+    height: 600px;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.hero {
+    padding-top: 150px;
+}
+
+.img-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-col p{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 30px 0px 0px 0px;
+}
+
+[class$='-img']{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    border-radius: 50%;
+    box-shadow: 0px 2px 5px #aeaeae;
+}
+
+.principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
+
+.jabbar-sir-img{ background-image: url('/public/assets//img/jabbar-sir.jpg'); }
+
+.kulkarni-sir-img{ background-image: url('/public/assets/img/kulkarni-sir.jpg'); }
+
+.pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
+
+.nikarika-img{ background-image: url('/public/assets/img/niharika.jpg'); }
+
+.burhan-img{ background-image: url('/public/assets/img/img/burhan.jpg'); }
+
+.sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
+
+.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }
+
+.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }
+
+.akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
+
+.shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
+
+.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpg'); }
+
+.newsletter-pdf{
+    height: 800px;
+    width: 800px;
+}
