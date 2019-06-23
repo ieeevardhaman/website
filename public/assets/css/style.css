@@ -73,6 +73,8 @@ header.masthead {
 
 /* MTT chapter images */
 
+.sulakshana_madam-img{ background-image: url('/public/assets/img/sulakshana_madam.jpg'); }
+
 .manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
 
 .akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }
