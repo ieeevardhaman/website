@@ -43,11 +43,15 @@ header.masthead {
     box-shadow: 0px 2px 5px #aeaeae;
 }
 
+/*Landing page images */
+
 .principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
 
 .jabbar-sir-img{ background-image: url('/public/assets//img/jabbar-sir.jpg'); }
 
 .kulkarni-sir-img{ background-image: url('/public/assets/img/kulkarni-sir.jpg'); }
+
+/* CS chapter images */
 
 .pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
 
@@ -66,6 +70,25 @@ header.masthead {
 .shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
 
 .puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }
+
+/* MTT chapter images */
+
+.manohar-img{ background-image: url('/public/assets/img/manohar.jpg'); }
+
+.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }
+
+.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }
+
+.adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
+
+.pooja-img{ background-image: url('/public/assets/img/pooja.jpg'); }
+
+.hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
+
+.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }
+
+.nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
+
 
 .newsletter-pdf{
     height: 800px;
