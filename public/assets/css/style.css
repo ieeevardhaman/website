@@ -49,27 +49,31 @@ header.masthead {
 
 .jabbar-sir-img{ background-image: url('/public/assets//img/jabbar-sir.jpg'); }
 
+.rajanikanth_sir-img{ background-image: url('/public/assets/img/rajanikanth_sir.png'); }
+
+.mallikarjun_sir-img{ background-image: url('/public/assets/img/mallikarjun_sir.png'); }
+
 .kulkarni-sir-img{ background-image: url('/public/assets/img/kulkarni-sir.jpg'); }
 
 /* CS chapter images */
 
 .pravan-img{ background-image: url('/public/assets/img/pravan.jpg'); }
 
-.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }
+.niharika-img{ background-image: url('/public/assets/img/niharika.jpg'); }/*Common*/
 
 .burhan-img{ background-image: url('/public/assets/img/burhan.jpg'); }
 
 .sunayana-img{ background-image: url('/public/assets/img/sunayana.jpg'); }
 
-.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }
+.prashanth-img{ background-image: url('/public/assets/img/prashanth.jpg'); }/*Common*/
 
-.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }
+.vaishnavi-img{ background-image: url('/public/assets/img/vaishnavi.jpg'); }/*Common*/
 
 .akash-img{ background-image: url('/public/assets/img/akash.jpg'); }
 
 .shashi-img{ background-image: url('/public/assets/img/shashi.jpg'); }
 
-.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }
+.puneeth-img{ background-image: url('/public/assets/img/puneeth.jpeg'); }/*Common*/
 
 /* MTT chapter images */
 
@@ -77,9 +81,9 @@ header.masthead {
 
 .manohar-img{ background-image: url('/public/assets/img/manohar.jpeg'); }
 
-.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }
+.akshita-img{ background-image: url('/public/assets/img/akshita.jpg'); }/*Common*/
 
-.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }
+.priyanka-img{ background-image: url('/public/assets/img/priyanka.jpg'); }/*Common*/
 
 .adhana-img{ background-image: url('/public/assets/img/adhana.jpg'); }
 
@@ -87,10 +91,15 @@ header.masthead {
 
 .hemavardhan-img{ background-image: url('/public/assets/img/hemavardhan.jpg'); }
 
-.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }
+.afsha-img{ background-image: url('/public/assets/img/afsha.jpg'); }/*Common*/
 
 .nagaraju-img{ background-image: url('/public/assets/img/nagaraju.jpg'); }
 
+/* WIE Chapter images */
+
+.sangeeta_madam-img{ background-image: url('/public/assets/img/sangeeta_madam.jpeg'); }
+
+.thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
 
 .newsletter-pdf{
     height: 800px;
