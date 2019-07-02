@@ -42,6 +42,13 @@ header.masthead {
     border-radius: 50%;
     box-shadow: 0px 2px 5px #aeaeae;
 }
+
+[class$='-logo']{
+    height: 135px;
+    width: 135px;
+    background-size: cover;
+    
+}
 .events_img{
     
     height:8cm;
@@ -50,9 +57,9 @@ header.masthead {
 
 /* IEEE LOGO'S*/
 
-.ieee_cs-img{ background-image: url('/public/assets/img/IEEE CS.png'); }
-.ieee_wie-img{ background-image: url('/public/assets/img/IEEE WIE.png'); }
-.ieee_mtt-img{ background-image: url('/public/assets/img/IEEE MTT-S.svg'); }
+.ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
+.ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
+.ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
 
 /*Landing page images */
 
