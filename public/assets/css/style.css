@@ -48,6 +48,12 @@ header.masthead {
     width:20cm;
 }
 
+/* IEEE LOGO'S*/
+
+.ieee_cs-img{ background-image: url('/public/assets/img/IEEE CS.png'); }
+.ieee_wie-img{ background-image: url('/public/assets/img/IEEE WIE.png'); }
+.ieee_mtt-img{ background-image: url('/public/assets/img/IEEE MTT-S.svg'); }
+
 /*Landing page images */
 
 .principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
