@@ -119,6 +119,14 @@ header.masthead {
 
 .thanmai-img{ background-image: url('/public/assets/img/thanmai.jpeg'); }
 
+/* CAS Chapter images */
+
+.jvr_sir-img{ background-image: url('/public/assets/img/jvr_sir.jpg'); }
+
+.subramanya-img{ background-image: url('/public/assets/img/subramanya.jpg'); }
+
+.vandana-img{ background-image: url('/public/assets/img/vandana.jpg'); }
+
 .newsletter-pdf{
     height: 800px;
     width: 800px;
