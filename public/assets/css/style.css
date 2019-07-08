@@ -3,7 +3,8 @@
 }
 
 #mainNav .navbar-brand img{
-    height: 50px;
+    height: 70px;
+    width:100px;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
