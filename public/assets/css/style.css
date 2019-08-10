@@ -63,7 +63,14 @@ header.masthead {
 }
 
 /* IEEE LOGO'S*/
-.IEEEnLOGO-img{ background-image: url('/public/assets/img/IEEEnLOGO.png'); }
+.IEEEnLOGO{
+    background-image: url('/public/assets/img/IEEEnLOGO.png'); 
+    height: 170px;
+    width: 180px;
+    background-size: cover;
+    box-shadow: 0px 2px 5px #aeaeae;
+}
+}
 .ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
 .ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
 .ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
