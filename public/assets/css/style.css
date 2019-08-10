@@ -63,7 +63,7 @@ header.masthead {
 }
 
 /* IEEE LOGO'S*/
-
+.IEEEnLOGO-img{ background-image: url('/public/assets/img/IEEEnLOGO.png'); }
 .ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
 .ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
 .ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
@@ -72,7 +72,7 @@ header.masthead {
 
 .principal-sir-img{ background-image: url('/public/assets/img/principal-sir.jpg'); }
 
-.jabbar-sir-img{ background-image: url('/public/assets//img/jabbar-sir.jpg'); }
+.jabbar-sir-img{ background-image: url('/public/assets/img/jabbar-sir.jpg'); }
 
 .rajanikanth_sir-img{ background-image: url('/public/assets/img/rajanikanth_sir.png'); }
 
