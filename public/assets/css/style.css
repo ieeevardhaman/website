@@ -77,6 +77,11 @@ header.masthead {
 .ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
 
 /*Coongrats Images*/
+[class$='congrats_']{
+     height: 190px;
+    width: 250px;
+    background-size: 100%;
+}
 .congrats_niharika{ background-image: url('/public/assets/img/congrats_niharika.jpeg'); }
 .congrats_prashanth{ background-image: url('/public/assets/img/congrats_prashanth.jpeg'); }
 
