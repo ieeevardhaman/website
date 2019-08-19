@@ -70,10 +70,15 @@ header.masthead {
     background-size: 100%;
     box-shadow: 0px 0px 1px #aeaeae;
 }
-}
+
+/*IEEE logo's*/
 .ieee_cs-logo{ background-image: url('/public/assets/img/IEEE_CS.png'); }
 .ieee_wie-logo{ background-image: url('/public/assets/img/IEEE_WIE.png'); }
 .ieee_mtt-logo{ background-image: url('/public/assets/img/IEEE_MTT-S.svg'); }
+
+/*Coongrats Images*/
+.congrats_niharika{ background-image: url('/public/assets/img/congrats_niharika.jpeg'); }
+.congrats_prashanth{ background-image: url('/public/assets/img/congrats_prashanth.jpeg'); }
 
 /*Landing page images */
 
