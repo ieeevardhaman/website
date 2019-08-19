@@ -78,8 +78,8 @@ header.masthead {
 
 /*Coongrats Images*/
 [class$='congrats_']{
-     height: 190px;
-    width: 250px;
+     height: 10cm;
+    width: 18cm;
     background-size: 100%;
 }
 .congrats_niharika{ background-image: url('/public/assets/img/congrats_niharika.jpeg'); }
