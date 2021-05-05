@@ -208,7 +208,222 @@ header.masthead {
 
 	width: 20rem;
 }
+/*-------------------------------------------- Updated front Page ----------------------------------------------*/
+
+.slide{
+  width: auto;
+  height: auto;
+  
+  position: relative;
+  animation: head 2.5s;
+
+}
+
+#div2 {animation-timing-function: ease;}
+@keyframes head {
+  from {left: -500px;}
+  to {left: 0px;}
+}
+
+.vision{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: visi 2.5s;
+
+}
+
+#vis {animation-timing-function: ease;}
+@keyframes visi {
+  from {right: -500px;}
+  to {right: 0px;}
+}
+
+.jabbar{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: jab 2s;
+
+}
+
+
+#vis {animation-timing-function: ease;}
+@keyframes jab {
+  from {right: -500px;}
+  to {right: 0px;}
+}
+
+
+.sangeetha{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: san 2.5s;
+
+}
+
+
+#vis {animation-timing-function: ease;}
+@keyframes san {
+ from {left: -500px;}
+  to {left: 0px;}
+}
+
+
+.jvr{
+  width: auto;
+  height: auto;
+ 
+  position: relative;
+  animation: prin 1s;
+
+}
+
+#vi {animation-timing-function: ease;}
+@keyframes prin {
+  from {left: -500px;}
+  to {left: 0px;}
+}
 
 
 
+
+.heimg {
+    align-items: center;
+    height: 70px;
+   
+    float: center;
+   
+
+ 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.vmeg {
+    align-items: center;
+    height: 350px;
+   
+    float: center;
+   
+
+ 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.slide{
+  width: auto;
+  height: auto;
+  
+  position: relative;
+  animation: head 2.5s;
+
+}
+
+#div2 {animation-timing-function: ease;}
+@keyframes head {
+  from {left: -500px;}
+  to {left: 0px;}
+}
+
+.vision{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: visi 2.5s;
+
+}
+
+#vis {animation-timing-function: ease;}
+@keyframes visi {
+  from {right: -500px;}
+  to {right: 0px;}
+}
+
+.jabbar{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: jab 2s;
+
+}
+
+
+#vis {animation-timing-function: ease;}
+@keyframes jab {
+  from {right: -500px;}
+  to {right: 0px;}
+}
+
+
+.sangeetha{
+  width: auto;
+  height: auto;
+
+  position: relative;
+  animation: san 2.5s;
+
+}
+
+
+#vis {animation-timing-function: ease;}
+@keyframes san {
+ from {left: -500px;}
+  to {left: 0px;}
+}
+
+
+.jvr{
+  width: auto;
+  height: auto;
+ 
+  position: relative;
+  animation: prin 1s;
+
+}
+
+#vi {animation-timing-function: ease;}
+@keyframes prin {
+  from {left: -500px;}
+  to {left: 0px;}
+}
+
+
+
+
+.heimg {
+    align-items: center;
+    height: 70px;
+   
+    float: center;
+   
+
+ 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.vmeg {
+    align-items: center;
+    height: 350px;
+   
+    float: center;
+   
+
+ 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
