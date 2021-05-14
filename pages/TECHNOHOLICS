@@ -1,0 +1,1351 @@
+---
+layout: event
+permalink: /sps-summit
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+
+  <title>Home | IEEE Regional Meeting on Deep Learning and Biomedical Signals 2021</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="public/assets/img/sb_logo.png" rel="icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+ 
+
+  <link rel="stylesheet" href="https://allyoucan.cloud/cdn/icofont/1.0.1/icofont.css" >
+  <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" />
+
+
+  <!-- Template Main CSS File -->
+  <link href="\public\assets/css/style.css" rel="stylesheet">
+
+  <style type="text/css">
+      .timeline ul {
+  margin: 0;
+  margin-top: 100px;
+  list-style: none;
+  position: relative;
+  padding: 1px 100px;
+  color: red;
+  font-size: 13px;
+}
+/*.timeline ul:before {
+  content: "";
+  width: 1px;
+  height: 100%;
+  position: absolute;
+  border-left: 2px dashed #aaaa;
+}*/
+.timeline ul li {
+  position: relative;
+  margin-left: 30px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 14px;
+  border-radius: 6px;
+  width: 250px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.08);
+  margin-bottom: 40px;
+}
+/*.timeline ul li:not(:first-child) {
+  margin-top: 60px;
+}*/
+.timeline ul li > span {
+  width: 2px;
+  height: 100%;
+  background: #aaaa;
+  left: -30px;
+  top: 0;
+  position: absolute;
+}
+.timeline ul li > span:before, .timeline ul li > span:after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  position: absolute;
+  background: black;
+  left: -4px;
+  top: 0;
+}
+.timeline ul li span:after {
+  top: 100%;
+}
+.timeline ul li > div {
+  margin-left: 10px;
+
+}
+
+.timeline div .title1, .timeline div .type {
+  font-weight: 700;
+  font-size: 16px;
+  color: black;
+}
+.timeline div .inf {
+  font-weight: 300;
+  color: black;
+ 
+}
+.timeline div > div {
+  margin-top: 5px;
+}
+.timeline span.number {
+  height: 100%;
+}
+.timeline span.number span {
+  position: absolute;
+  font-size: 14px;
+  left: -75px;
+  font-weight: bold;
+  color: black;
+}
+.timeline span.number span:first-child {
+  top: 0;
+}
+.timeline span.number span:last-child {
+  top: 100%;
+}
+strong{
+    font-weight: 650;
+}
+.he{
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.qw_logos img{
+  height: 30px;
+  margin-bottom: 30px;
+}
+.qw_logos1 img{
+  height: 40px;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+@media only screen and (max-width: 600px) {
+  .qw_logos1, .cosponsor{
+    display: none;
+  }
+  .timeline{
+    margin-left: 30px;
+  }
+  .card img{
+  height: 300px;
+}
+.eve img{
+  height: 200px;
+  width: 100%;
+  /*display: center center;*/
+}
+	.example {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.timeline ul {
+    margin: 0;
+    margin-top: 100px;
+    list-style: none;
+    position: relative;
+    padding: 1px 50px;
+    color: red;
+    font-size: 13px;
+}
+.eve h2{
+  font-size: 10px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+.eve{
+  box-shadow: 1px 5px 5px 5px #F3F5F4;
+  /*border: 1px solid grey;*/
+  border-radius: 5px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  height: 300px;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+}
+
+
+@media only screen and (min-width: 610px) {
+.card img{
+  height: 250px;
+}
+.card{
+  height: 430px;
+}
+.eve img{
+  height: 250px;
+  width: 100%;
+  /*display: center center;*/
+}
+.eve h2{
+  font-size: 14px;
+  font-weight: 700;
+  padding-bottom: 10px;
+}
+.eve{
+  box-shadow: 1px 5px 5px 5px #F3F5F4;
+  /*border: 1px solid grey;*/
+  border-radius: 5px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  height: 350px;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+}
+
+
+
+.eve:hover{
+   transform: scale(1.03);
+   transition: transform .4s;
+}
+@media (max-width: 600px) {
+  #header .logo img{
+    height: 30px;
+  }
+}
+
+
+
+    </style>
+
+  </head>
+
+<body onload="timer()">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      
+      <!-- Uncomment below if you prefer to use an image logo -->
+       <a href="/" class="logo mr-auto"><img src="/public/assets/img/IEEE VCE SB PNG.png" alt="" class="img-fluid"></a>
+       <a href="" class="logo mr-auto"><img src="/public/assets/img/ieeestudents.png" alt="" class="img-fluid"></a>
+       <a href="" class="logo mr-auto"><img src="/public/assets/img/sps.png" alt="" class="img-fluid"></a>
+	<a href="" class="logo mr-auto"><img src="/public/assets/img/ieehy.jpg" alt="" class="img-fluid"></a>
+    
+
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <!-- <li><a href="#gallery">Gallery</a></li> -->
+          <li><a href="#agenda">Agenda</a></li>
+          <li><a href="#speaker">Speakers</a></li>
+          <li><a href="#event">Events</a></li>
+          <li><a href="#sponsor">Sponsor</a></li>
+          <li>  <a href="https://bit.ly/sps_2021" class="learn-more-btn">Register Now</a></li>
+		
+          
+        </ul>
+      </nav><!-- .nav-menu -->
+
+
+     
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-content-center align-items-center">
+    <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
+      <br>
+      <h1>Regional Meeting on Deep Learning and Biomedical Signals 2021</h1>
+      <h2>Deep Learning and Bio Medical Signals</h2>
+      <a href="#about" class="btn-get-started" style="scroll-behavior: smooth;">Know More</a>
+      <script type="text/javascript">
+        
+        function timer(){
+    var deadline = "May 14 2021 10:00:00 GMT+0530";
+
+// get the time remaining
+function getTimeRemaining(endtime) {
+  var t = Date.parse(endtime) - Date.parse(new Date());
+
+  var seconds = (t / 1000) % 60;
+  var minutes = Math.floor((t / 1000 / 60) % 60);
+  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+
+// initialize clock
+function initializeClock(id, endtime) {
+  var clock = document.getElementById(id);
+  var daysSpan = clock.querySelector('.days');
+  var hoursSpan = clock.querySelector('.hours');
+  var minutesSpan = clock.querySelector('.minutes');
+  var secondsSpan = clock.querySelector('.seconds');
+
+  function updateClock() {
+    var t = getTimeRemaining(endtime);
+
+    daysSpan.innerHTML = t.days;
+    hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+    minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+    secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+
+    if (t.total <= 0) {
+      clearInterval(timeinterval);
+      daysSpan.innerHTML = 0;
+      hoursSpan.innerHTML = 0;
+      minutesSpan.innerHTML = 0;
+      secondsSpan.innerHTML = 0;
+    }
+  }
+
+  updateClock();
+  var timeinterval = setInterval(updateClock, 1000);
+}
+
+// var deadline = new Date(Date.parse(new Date()) + 97 * 24 * 60 * 60 * 1000);
+initializeClock('clockdiv', deadline);
+}
+      </script>
+      <center>
+
+      <div class="timer">
+      <div id="clockdiv">
+        <div>
+          <span class="days" id="days"></span>
+          <div class="smalltext">Days</div>
+        </div>
+        <div>
+          <span class="hours" id="hours"></span>
+          <div class="smalltext">Hours</div>
+        </div>
+        <div>
+          <span class="minutes" id="minutes"></span>
+          <div class="smalltext">Minutes</div>
+        </div>
+        <div>
+          <span class="seconds" id="seconds"></span>
+          <div class="smalltext">Seconds</div>
+        </div>
+      </div>
+      </div>
+      </center>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>About the event</p>
+        </div>
+
+      
+          <div class="pt-4 pt-lg-0 order-2 order-lg-1 content">
+
+            <p class="font-italic">
+              The Biomedical Signals and Deep Learning has numerous applications in healthcare—from remote monitoring and assistive technologies to smart sensors in wearable’s and medical device integration. It has the potential to keep patients safe and healthy and also to improve the capability of physicians as well and also creates new possibilities for healthcare delivery. In this Regional Meeting, the instructors will cover the topics of Biomedical Signal Processing and Healthcare Deep Learning applications, presenting the most recent advances of research in these fields and providing the attendees with the necessary skills to address the future challenges related to biomedical engineering and healthcare.
+          </p>
+          <p class="font-italic">
+            IEEE Signal Processing Regional Meeting on Deep Learning and Biomedical Signals 2021, is the First edition of regional meeting organized by IEEE Signal Processing Society Student Chapter under IEEE Vardhaman Student Branch in association with IEEE Vardhaman SB WIE, Computer Society and Education Society Chapter on 14th – 16th June 2021, it is the Student Professional Awareness Conference (SPAC) 2021, which is Being funded by IEEE Signal Processing Society and IEEE Students, Technical consortium that encourages women and men in engineering disciplines to share their ideas and build up a professional network to enhance their skills.
+          </p>
+          <p class="font-italic">
+            IEEE Vardhaman Student Branch under Signal Processing Society has the ability to bring formidable IEEE and IEEE SPS Members together from across the globe and the potential to make a shift change in engineering cultures worldwide. The Theme of the Event " Deep Learning and Biomedical Signals "demonstrates the strength arising from working together as a community which surely can mark a significant change within us before this year comes to an end.
+          </p>
+          <p class="font-italic">
+            We the members enthusiastically and passionately coming forward to work with you all and to serve you in coming months. Regional SPS Summit will make the students aware about multitude of skill sets, powerful mind development, conductive learning environment, and networking opportunities and provides a chance to grow globally.
+          </p>
+           <ul>
+                Through this event,<br><br>
+              <li><i class="icofont-check-circled"></i> Members can connect with people worldwide, share and exchange knowledge, work as a team, strengthening networks.</li>
+              <li><i class="icofont-check-circled"></i> The Track which focuses on women empowerment in domains of Biomedical Signals and Deep Learning in Healthcare  and help women advance in their careers and encourage IEEE Members in their development goals.</li>
+              <li><i class="icofont-check-circled"></i> This summit will focus more than ever on impact and deliverables, have become passionate and enthusiastic about the progress and visibility of IEEE SPS in IEEE.</li>
+            </ul>
+
+            <p class="font-italic">
+              <strong>We would love to meet every member of IEEE SPS this year, and We would like to invite you to join us to contribute and make a change, boost their self-confidence and prove that women should be independent and reach their goals even in the hardest fields of Biomedical Signals and Deep Learning.
+              <br>
+              The programme is supported by IEEE Signal processing society. This regional meeting is mainly focusing towards creating interest and motivating the participants in the area Biomedical and Deep Learning domains in health care applications.</strong>
+            </p>
+            
+            
+            <a href="https://bit.ly/sps_2021" class="learn-more-btn">Register Now</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+	
+	<div class="container example">
+  <div class="row g-0">
+    
+    <video   controls autoplay >
+  <source src="\public\assets/img/postersdp/intro.mp4" type="video/mp4">
+  
+</video>
+  </div>
+  </div>
+	
+
+
+   <section id="agenda" class="about agenda">
+           <div class="container">
+                <div class="timeline">
+                  <div class="section-title">
+                  <h2>Agenda</h2>
+                  <p>Schedule for 14<sup> th</sup> May 2021</p>
+              </div>
+                   <div class="row">
+                        <div class="col-sm-6">
+                            <ul>
+                             
+                                <h5 style="color: black">Deep Learning Summit Inaugural</h5>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">IEEE Branding</div>
+                                    </div> 
+                                    <span class="number"><span>10:00 AM</span> <span>10:05 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Classical Dance and Welcome Song</div>
+                                    </div> 
+                                    <span class="number"><span>10:05 AM</span> <span>10:10 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Program Overview</div>
+                                        <div class="inf">by <STRONG>Prof. Sangeeta Singh</STRONG>,Deputy Advisor, IEEE VCE SB
+</div>
+                                    </div> 
+                                    <span class="number"><span>10:10 AM</span> <span>10:15 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Dr. J V R Ravindra</div>
+                                        <div class="inf">Principal, Vardhaman College of Engineering</div>
+                                    </div> 
+                                    <span class="number"><span>10:15 AM</span> <span>10:20 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Dr. M. A. Jabbar</div>
+                                        <div class="inf"> Chair IEEE CS Hyderabad Chapter</div>
+                                    </div> 
+                                    <span class="number"><span>10:20 AM</span> <span>10:25 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Sreenivas Jasti</div>
+                                        <div class="inf">Chair IEEE Hyderabad Section</div>
+                                    </div> 
+                                    <span class="number"><span>10:25 AM</span> <span>10:30 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Dr. R. Balasubramaniam</div>
+                                        <div class="inf">Vice- Chair, IEEE Hyderabad Section</div>
+                                    </div> 
+                                    <span class="number"><span>10:30 AM</span> <span>10:35 AM</span></span>
+                                </li>
+
+
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Mr. Vidya Sagar</div>
+                                        <div class="inf">Chair IEEE Hyderabad SAC</div>
+                                    </div> 
+                                    <span class="number"><span>10:35 AM</span> <span>10:40 AM</span></span>
+                                </li>
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address by Dr. Abhinav Kumar</div>
+                                        <div class="inf">Chair IEEE Hyderabad Section SPS & Comsoc Joint Chapter
+</div>
+                                    </div> 
+                                    <span class="number"><span>10:40 AM</span> <span>10:45 AM</span></span>
+                                </li>
+                                  <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Guest Address by Mr. Deepak Mathur</div>
+                                        <div class="inf">Director IEEE Region 10 </div>
+                                    </div> 
+                                    <span class="number"><span>10:45 AM</span> <span>10:55 AM</span></span>
+                                </li>
+                                  <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Address and Vote of Thanks by Dr. G. A. E Satish Kumar</div>
+                                        <div class="inf">IEEE Signal Processing, Student Chapter Advisor, Vardhaman College of Engineering
+</div>
+                                    </div> 
+                                    <span class="number"><span>10:55 AM</span> <span>11:00 AM</span></span>
+                                </li>
+                               
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul>                             
+                               <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Deep Learning Based Sentiment Analysis of Covid-19 Tweets: Popularity Affecting Accuracy</div>
+                                        <div class="inf"><strong>Dr. Siddhartha Bhattacharyya</strong>, PhD 
+IEEE Computer Society Distinguished Visitor (2021-2023), SMIEEE, Principal
+RAJNAGAR MAHAVIDYALAYA
+RAJNAGAR
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>11:00 AM</span> <span>12:00 NOON</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Networking Session on Khoot  Quiz Contest on Deep Learning and Applications</div>
+                                        
+                                    </div> 
+                                    <span class="number"><span>12:00 NOON</span> <span>12:30 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Lunch</div>
+                                       
+                                    </div> 
+                                    <span class="number"><span>12:30 PM</span> <span>02:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1"> A m-Health solution for contact-less self-monitoring of vital signs parameters</div>
+                                        <div class="inf"><strong>Gabriella Casalino</strong>, PhD
+
+CILAB Laboratory
+Department of Computer Science
+University of Bari "Aldo Moro"
+Via E. Orabona, 4 - 70125 Bari, Italy
+</div>
+                                    </div> 
+                                    <span class="number"><span>02:00 PM</span> <span>03:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">IEEE SPS Membership Development and SPS Benefits and Chapter Initatives</div>
+                                        <div class="inf">Dr. K. V. S. Hari, Vice President-Membership, IEEE Signal Processing Society
+Professor, Indian Institute of Science, Bangalore
+</div>
+                                    </div> 
+                                    <span class="number"><span>03:00 PM</span> <span>04:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Group Discussion
+</div>
+                                    </div> 
+                                    <span class="number"><span>05:00 PM</span> <span>06:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Idea Pitching Contest</div>
+                                        
+                                         </div> 
+                                    <span class="number"><span>06:00 PM</span> <span>07:00 PM</span></span>
+                                </li>
+                               
+                            </ul>
+                        </div>
+                    </div>
+                    <br><br>
+      <div class="section-title">
+                  <p>Schedule for 15<sup> th</sup> May 2021</p>
+	       <h5 style="color: black">Agenda:Bio Medical Signal Summit</h5>
+              </div>
+
+
+
+
+                                                          <div class="row">
+                        <div class="col-sm-6">
+                            <ul>
+                             
+                               
+
+
+<li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Signal Processing and Deep learning for Biomedical Applications</div>
+                                        <div class="inf"><strong>Celia Shahnaz</strong> Ph.D. SMIEEE, FIEB
+Professor, Department of EEE, BUET
+2021-23 Chair, IEEE Signal Processing Society (SPS) Women in Signal Processing Committee
+2021-23  Liaison of IEEE SPS to IEEE Women in Engineering (WIE)
+2021-22 member, IEEE History Committee
+2021 Member, IEEE Educational Activities Board, Faculty Resource Committee
+
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>10:00 AM</span> <span>11:00 Am</span></span>
+                                </li>
+
+
+
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Biomedical Image Processing Using Deep Learning for Automatic COVID-19 Detection</div>
+                                        <div class="inf"><strong>Prof. Shaikh Fattah</strong> Professor, Department of EEE, BUET
+
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>11:00 AM</span> <span>12:00 NOON</span></span>
+                                </li>
+
+
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Project Expo</div>
+                                        <div class="inf"><strong>Applications on Deep Learning and Bio Medical Signals</strong> 
+
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>12:00 PM</span> <span>1:00 PM</span></span>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul>                             
+                               <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">LUNCH</div>
+                                       
+                                    </div> 
+                                    <span class="number"><span>1:00 PM</span> <span>2:00 PM</span></span>
+                                </li>
+
+
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">CNNs in Cancer Imaging</div>
+                                        <div class="inf"><strong>Dr. Anubha Gupta</strong> 
+Professor, Deptt. of ECE
+Member, Infosys Center for AI, IIIT Delhi
+Member, Center of Excellence in Healthcare, IIIT-Delhi
+
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>2:00 PM</span> <span>3:00 PM</span></span>
+                                </li>
+
+                                 <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Deep Learning and Its Applications</div>
+                                        <div class="inf"><strong>Prof Supavadee</strong> 
+ Head , Multimedia Data Analytics and Processing Research unit , chulalongkorn University
+
+                                          
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>3:00 PM</span> <span>5:00 PM</span></span>
+                                </li>
+                                
+                                     <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Culturals and Networking</div>
+                                        
+                                    </div> 
+                                    <span class="number"><span>5:00 PM</span> <span>6:00 PM</span></span>
+                                </li>
+
+                               
+                            </ul>
+                        </div>
+                    </div>
+      <br><br>
+                    <div class="section-title">
+                  <p>Schedule for 16<sup> th</sup> May 2021</p>
+			    <h5 style="color: black">Agenda:IEEE SPS Summit</h5>
+              </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Practical Applications of Deep learning in Oil and Gas Domain
+</div>
+                                        <div class="inf">Chaitanya Kanchibhotla, Principal R&D Engineer, OpenStream Inc              
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>10:00 AM</span> <span>11:00 AM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                        <div class="title1">Azure and ML in Oil and Gas Industry</div>
+                                        <div class="inf">
+                                          Pruthvi Raj Venkatesh, Principal R&D Engineer, OpenStream Inc
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>11:00 AM</span> <span>12:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Covid-19 and AI: A lesson on developing effective solutions</div>
+                                        <div class="inf">
+                                          Dr. Soumya Jana
+Professor, Dept of Electrical Engineering
+IIT- Hyderabad
+                                        </div>
+                                    </div> 
+                                    <span class="number"><span>12:00 PM</span> <span>01:30 PM</span></span>
+                                </li>
+                                <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Lunch Break</div>
+                                    </div> 
+                                    <span class="number"><span>01:30 PM</span> <span>03:00 PM</span></span>
+                                </li>
+                                <li>
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Introduction to Deep learning techniques</div>
+                                        <div class="inf">Dr. Shankru Guggari, Data Engineeri
+                                      </div> 
+                                    </div>
+                                    <span class="number"><span>03:00 PM</span> <span>04:00 PM</span></span>
+                                </li>
+                            </ul>    
+                        </div>
+                        <div class="col-sm-6">
+                            <ul>
+                                <li>
+                              
+                                    <div>
+                                        <span></span>
+                                        <div class="title1">Awards Ceremony and
+
+Closing Ceremony
+
+
+</div>
+
+                                        
+                                    </div> 
+
+
+                                    <span class="number"><span>06:00 PM</span> <span>07:00 PM</span></span>
+
+
+
+                                </li>
+            
+            <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Closing Ceremony and Videos </div>
+                                    </div> 
+                                    <span class="number"><span>06:00 PM</span> <span>06:05 PM</span></span>
+                                </li>
+
+
+
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by Supporting Colleges Branch Counselors</div>
+                                    </div> 
+                                    <span class="number"><span>06:05 PM</span> <span>06:15 PM</span></span>
+                                </li>
+
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Participants Feedback</div>
+                                    </div> 
+                                    <span class="number"><span>06:15 PM</span> <span>06:20 PM</span></span>
+                                </li>
+ <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Address by Dr. M. A. Jabbar, Chair, IEEE CS Hyderabad Chapter</div>
+                                    </div> 
+                                    <span class="number"><span>06:20 PM</span> <span>06:30 PM</span></span>
+                                </li>
+
+ 
+
+
+                                <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Address by Dr. J V R Ravindra, Principal, Vardhaman College of Engineering</div>
+                                    </div> 
+                                    <span class="number"><span>06:30 PM</span> <span>06:35 PM</span></span>
+                                </li>
+
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by Mr. Vidya Sagar, Chair IEEE hyderabad SAC</div>
+                                    </div> 
+                                    <span class="number"><span>06:35 PM</span> <span>06:40 PM</span></span>
+                                </li>
+
+ <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">  Address by Dr. Arif Soel, Secretary, IEEE Hyderabad Section</div>
+                                    </div> 
+                                    <span class="number"><span>06:40 PM</span> <span>06:45 PM</span></span>
+                                </li>
+
+                                 <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by Sreenivas Jasti, Chair IEEE Hyderabad Section</div>
+                                    </div> 
+                                    <span class="number"><span>06:45 PM</span> <span>06:50 PM</span></span>
+                                </li>
+
+
+                                <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by Dr. Jennifer Dela Cruz, Chair IEEE R10 SAC Chair</div>
+                                    </div> 
+                                    <span class="number"><span>06:50 PM</span> <span>07:00 PM</span></span>
+                                </li>
+
+                                  <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by David Koehler, MGA IEEE Vice President-Elect, Member and Geographic Activities, MGA N&A Committee Chair, MGA Operations Committee Chair</div>
+                                    </div> 
+                                    <span class="number"><span>07:00 PM</span> <span>07:15 PM</span></span>
+                                </li>
+
+
+ <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1"> Address by Dr. G. A. E Satish Kumar, IEEE Signal Processing, Student Chapter Advisor, Vardhaman College of Engineering</div>
+                                    </div> 
+                                    <span class="number"><span>07:15 PM</span> <span>07:20 PM</span></span>
+                                </li>
+
+
+ <li>
+                                    <span></span>
+                                    <div>
+                                       <div class="title1">Vote of Thanks by M.Sai Prashanth, Chair IEEE Vardhaman College of Engineering Student branch</div>
+                                    </div> 
+                                    <span class="number"><span>07:20 PM</span> <span>07:25 PM</span></span>
+                                </li>
+                
+                                  
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+            <section id="speaker" class="speaker">
+            <div class="container">
+                <div class="timeline">
+                    <div class="section-title">
+                        <h2>Speakers</h2>
+                    </div>
+                    <div class="row">
+                                <div class="col-lg-12 details order-2 order-lg-1">
+                                    <div class="container">
+                                        <div class="row">
+                      <div class="col-sm-3">
+<div class="card">
+  <img class="card-img-top" src="\public\assets/img/postersdp/s11.jpeg" alt="Card image" style="width:100%">
+<div class="card-body">
+
+<h4 class="card-title">
+Dr. Siddhartha Bhattacharyya</h4>
+<p class="card-text">PhD, IEEE Computer Society Distinguished Visitor (2021-2023) </p>
+      </div>
+                                                </div>
+                                            </div>
+
+
+<div class="col-sm-3">
+<div class="card">
+   <img class="card-img-top" src="\public\assets/img/postersdp/s10.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Gabriella Casalino</h4>
+
+<p class="card-text">PhD, CILAB Laboratory
+Department of Computer Science
+University of Bari "Aldo Moro"
+</p>
+      </div>
+                                                </div>
+                                            </div>
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s9.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Dr. K. V. S. Hari</h4>
+ <p class="card-text">Vice President-Membership, IEEE Signal Processing Society
+Professor, Indian Institute of Science, Bangalore</p>
+      </div>
+                                                </div>
+                                            </div>
+
+
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s8.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Celia Shahnaz</h4>
+<p class="card-text">Ph.D. SMIEEE, FIEBProfessor, Department of EEE</p>
+      </div>
+                                                </div>
+                                            </div>
+
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s7.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Prof. Shaikh Fattah</h4>
+ <p class="card-text">Professor, Department of EEE, BUET</p>
+      </div>
+                                                </div>
+                                            </div>
+
+
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s1.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Dr. Anubha Gupta</h4>
+<p class="card-text">Professor, Deptt. of ECE
+Member, Infosys Center for AI, IIIT Delhi
+Member</p>
+      </div>
+                                                </div>
+                                            </div>
+
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s6.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Prof Supavadee</h4>
+ <p class="card-text">Head , Multimedia Data Analytics and Processing Research unit , chulalongkorn University</p>
+      </div>
+                                                </div>
+                                            </div>
+
+<div class="col-sm-3">
+<div class="card">
+ <img class="card-img-top" src="\public\assets/img/postersdp/s3.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Chaitanya Kanchibhotla</h4>
+<p class="card-text">Principal R&D Engineer, OpenStream Inc</p>
+      </div>
+                                                </div>
+                                            </div>
+ 
+
+<div class="col-sm-3">
+<div class="card">
+ <img class="card-img-top" src="\public\assets/img/postersdp/s2.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+ <h4 class="card-title">
+Pruthvi Raj Venkatesh</h4>
+ <p class="card-text">Principal R&D Engineer, OpenStream Inc</p>
+       </div>
+                                                </div>
+                                            </div>
+ 
+
+<div class="col-sm-3">
+<div class="card">
+ <img class="card-img-top" src="\public\assets/img/postersdp/s5.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+ <h4 class="card-title">
+Dr. Soumya Jana</h4>
+<p class="card-text">Professor, Dept of Electrical Engineering
+IIT- Hyderabad </p>
+      </div>
+                                                </div>
+                                            </div>
+
+
+<div class="col-sm-3">
+<div class="card">
+<img class="card-img-top" src="\public\assets/img/postersdp/s12.jpeg" alt="Card image" style="width:100%">
+   <div class="card-body">
+
+<h4 class="card-title">
+Dr. Shankru Guggari</h4>
+<p class="card-text">Data Engineer</p>
+      </div>
+                                                </div>
+                                            </div>
+
+
+
+
+                                            
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </section>
+
+      <section id="event" class="event">
+
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+              <h2>Events</h2>
+              <p></p>
+          </div>
+          
+          <div class="row">
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/9.jpeg" class="img-fluid">
+            
+              </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/13.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+      
+      
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/e1.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/e2.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+
+
+<div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/e3.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+
+
+<div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/e4.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/e5.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/14.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2></h2>
+              <img src="\public\assets/img/postersdp/17.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+          
+              <img src="\public\assets/img/postersdp/18.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+              
+              <img src="\public\assets/img/postersdp/20.jpeg" class="img-fluid">
+              
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+              
+              <img src="\public\assets/img/postersdp/19.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+              <img src="\public\assets/img/postersdp/1.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/2.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                <h2>Project Expo</h2>
+              <img src="\public\assets/img/postersdp/3.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/4.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+              
+              <img src="\public\assets/img/postersdp/5.jpeg" class="img-fluid">
+            
+              </div>
+            </div>
+      
+      
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+              
+              <img src="\public\assets/img/postersdp/6.jpeg" class="img-fluid">
+              
+              </div>
+            </div>
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/7.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/8.jpeg" class="img-fluid">
+              
+                
+              </div>
+            </div>
+      <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/11.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+
+
+                <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/21.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/22.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+              <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/a1.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-12">
+               <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/a2.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+               <div class="eve">
+                
+              <img src="\public\assets/img/postersdp/a3.jpeg" class="img-fluid">
+              <a href="https://bit.ly/cssameeksha2021" target ="_blank" class="stretched-link"></a>
+                
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </section>
+
+    <section id="sponsor" class="sponsor">
+        <div class="container" data-aos="fade-up">
+          <div class="section-title">
+              <h2>Sponsors</h2>
+          </div>
+          
+          <div class="row">
+            <div class="col">
+<img src="/public/assets/img/IEEE VCE SB PNG.png" alt="" class="img-fluid">
+     <img src="/public/assets/img/ieeestudents.png" alt="" class="img-fluid">
+     <img src="/public/assets/img/sps.png" alt="" class="img-fluid">
+	<img src="/public/assets/img/ieehy.jpg" alt="" class="img-fluid">
+             <img src="/public/assets/img/sn logo.webp" class="img-fluid">
+      
+              <img src="/public/assets/img/vardhaman_logo.png" class="img-fluid">
+            
+		    <img src="/public/assets/img/IEEE WIE.png" class="img-fluid">
+
+           
+              <img src="/public/assets/img/collabratec_logo.png" class="img-fluid">
+            </div>
+          </div>
+      </div>
+    </section>
+  </main>
+</body>
+
+</html>
